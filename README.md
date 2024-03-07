@@ -4,7 +4,7 @@ This poor deals with RFID interfaced with Arduino and servo motor and LCD I2C.
 
 Steps:
 
-Go to your Arduino IDE --> click on file --> open examples --> select MCR22 --> Select dumpinfo -->open file
+Go to your Arduino IDE --> click on file --> open examples --> select MFRC22 --> Select dumpinfo -->open file
 
 Do the connect as mentioned in code 
 
